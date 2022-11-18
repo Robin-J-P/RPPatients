@@ -1,0 +1,252 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RPPatients
+build_property.RootNamespace = RPPatients
+build_property.ProjectDir = C:\Users\Robin\Downloads\RPPatients-8743978-INFO-8550-Sec1\RPPatients-8743978-INFO-8550-Sec1\RPPatients\RPPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Robin\Downloads\RPPatients-8743978-INFO-8550-Sec1\RPPatients-8743978-INFO-8550-Sec1\RPPatients\RPPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPConcentrationUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb25jZW50cmF0aW9uVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPConcentrationUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb25jZW50cmF0aW9uVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPConcentrationUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb25jZW50cmF0aW9uVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPConcentrationUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb25jZW50cmF0aW9uVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPConcentrationUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb25jZW50cmF0aW9uVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPCountry/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb3VudHJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPCountry/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb3VudHJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPCountry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb3VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPCountry/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb3VudHJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPCountry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBDb3VudHJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosisCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosisCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNDYXRlZ29yeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosisCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosisCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosisCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDiagnosis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaWFnbm9zaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDispensingUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaXNwZW5zaW5nVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDispensingUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaXNwZW5zaW5nVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDispensingUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaXNwZW5zaW5nVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDispensingUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaXNwZW5zaW5nVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPDispensingUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBEaXNwZW5zaW5nVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedicationType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uVHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedicationType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uVHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedicationType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uVHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedicationType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uVHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPMedicationType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBNZWRpY2F0aW9uVHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientDiagnosis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50RGlhZ25vc2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientDiagnosis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50RGlhZ25vc2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientDiagnosis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50RGlhZ25vc2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientDiagnosis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50RGlhZ25vc2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientDiagnosis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50RGlhZ25vc2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientTreatments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50VHJlYXRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientTreatments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50VHJlYXRtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientTreatments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50VHJlYXRtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientTreatments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50VHJlYXRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/RPPatientTreatments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlBQYXRpZW50VHJlYXRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Robin/Downloads/RPPatients-8743978-INFO-8550-Sec1/RPPatients-8743978-INFO-8550-Sec1/RPPatients/RPPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-medwsghasn
