@@ -16,10 +16,9 @@ First fork the repo 🍴 to your account.
 
 Go to the forked repo and clone it 👥 to your local machine:
 
-git clone git clone https://github.com/Robin-J-P/RPPatients.git
+git clone https://github.com/Robin-J-P/RPPatients.git
 
 This will make a copy of the code to your local machine.
-
 **Now move to the RPPatients directory.**
 
 cd RPPatients
