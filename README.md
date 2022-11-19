@@ -31,4 +31,4 @@ Download the sql file and execute all the commands to create new table and add d
 **Run locally**
 
 Build the solution
-Go to: http://localhost:3000
+Go to: http://localhost:7126
